@@ -1,4 +1,4 @@
 # powerBI_alura
 
-##Dashboard AluraPets
-[AluraPets](/public/aluraPets.png)
+## Dashboard AluraPets
+![AluraPets](/public/aluraPets.png)
